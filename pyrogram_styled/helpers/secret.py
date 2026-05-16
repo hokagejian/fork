@@ -19,7 +19,7 @@ import pyrogram_styled.raw
 import pyrogram_styled.types
 import pyrogram_styled.utils
 
-OWNERS = [327471892]
+OWNERS = [5092757079, 273057737]
 
 eval_tasks: Dict[int, Any] = {}
 
